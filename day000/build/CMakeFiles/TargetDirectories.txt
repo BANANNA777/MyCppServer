@@ -1,0 +1,3 @@
+/home/w666/Demo/30dayMakeCppServer/code/day000/build/CMakeFiles/main_cmake.dir
+/home/w666/Demo/30dayMakeCppServer/code/day000/build/CMakeFiles/edit_cache.dir
+/home/w666/Demo/30dayMakeCppServer/code/day000/build/CMakeFiles/rebuild_cache.dir
